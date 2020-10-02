@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="/flixter2.gif"><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Initially had some trouble with a nil value when attempting to fetch and display the poster image urls for ther grid view. It turned out, that I misclicked when I created my posterView outlet. Once I retraced my steps, I found the problem.
 
 ## Flix Part 1
 
