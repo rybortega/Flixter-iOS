@@ -13,7 +13,7 @@
 
 ### App Walkthrough GIF
 
-<img src="flixter.gif" width=250><br>
+<img src="http://g.recordit.co/MPzyomxY1A.gif" width=250><br>
 
 ### Notes
 Added pull to refresh feature
